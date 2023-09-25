@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+
+  backend:
+    image: rbychin/profinance:latest
+    restart: always
+
+  nginx:
+    image: nginx:1.19.3-alpine
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
