@@ -1,6 +1,5 @@
 from app.models import Task
 
-
 background_tasks = {}
 
 
