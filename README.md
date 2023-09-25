@@ -1,6 +1,6 @@
 # Тестовое задание от ПРО Финанс
 
-![example workflow](https://github.com/RBychin/ProFinanceTestTask/actions/workflows/yamdb_workflow.yml/badge.svg)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RBychin/ProFinanceTestTask/tests)
 
 
 ### - Описание проекта:
