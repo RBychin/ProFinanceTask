@@ -49,7 +49,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
-    needs: build_push_images
+    needs: build_and_push_to_docker_hub
     steps:
       - name: Set up Docker environment
         run: sudo chmod 666 /var/run/docker.sock
