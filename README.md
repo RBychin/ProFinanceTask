@@ -1,7 +1,6 @@
 # Тестовое задание от ПРО Финанс
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RBychin/ProFinanceTestTask/tests)
-
+[example workflow](https://github.com/RBychin/ProFinanceTestTask/actions/workflows/main.yml/badge.svg)
 
 ### - Описание проекта:
 - Тестовая задача от ПроФинанс
