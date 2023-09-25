@@ -59,7 +59,9 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.SSH_USER }}
-          password: ${{ secrets.HOST_KEY }}
+          key: ${{ secrets.HOST_KEY }}
+          passphrase: ${{ secrets.HOST_PASSPHRASE }}
+          password: ${{ secrets.HOST_PASSPHRASE }}
           script: |
             cd infra
             docker compose down
