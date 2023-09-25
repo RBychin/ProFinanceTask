@@ -1,6 +1,6 @@
 # Тестовое задание от ПРО Финанс
 
-[tests and deploy workflow](https://github.com/RBychin/ProFinanceTestTask/actions/workflows/main.yml/badge.svg)
+![tests and deploy workflow](https://github.com/RBychin/ProFinanceTestTask/actions/workflows/main.yml/badge.svg)
 
 ### - Описание проекта:
 - Тестовая задача от ПроФинанс
